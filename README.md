@@ -1,10 +1,7 @@
 # Tech_Article-NDB
 
-THIS IS A TECHNICAL ARTICLE WRITTEN BY ME ON NANO DIAMOND BATTERIES (NDB).
--
-THIS WRITE UP EXPLAINS THE NDB AND ANSWERS THE COMMONLY ASKED QUESTIONS.
--
-NDB IS BASICALLY A TECHNOLOGY WHICH USES NUCLEAR WASTE FOR THE ENERGY PRODUCTION WHICH LASTS UPTO 28,000 YEARS.
--
-CHECH THE ARTICLE FOR MORE.
--
+- This is a Technical article written on Nano Diamond Batteries (NDB).
+- This write up explains the NDB and answers the commonly asked questions.
+- NDB is basically a Technology which uses nuclear waste for the energy production which lasts upto 28,000 years.
+- Check out the article for more info.
+
